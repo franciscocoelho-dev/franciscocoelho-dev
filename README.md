@@ -6,14 +6,14 @@ Desenvolvedor e entusiasta de soluções criativas e inovadoras. Atualmente util
 Sou professor de programação e disciplinas afins, atualmente ministrando aulas no curso de Análise e Desenvolvimento de Sistemas na UNINASSAU Parnaíba; na formação em Desenvolvimento de Sistemas do CETI Liceu Parnaibano; e mentor de desenvolvimento na ProgrameIO.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/franciscocoelho-dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/franciscocoelho-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/franciscocoelho-dev?tab=followers">
+    <a href="https://github.com/franciscocoelho-dev?tab=followers" style="margin-left: 10px">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -92,7 +92,7 @@ Sou professor de programação e disciplinas afins, atualmente ministrando aulas
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=franciscocoelho-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -100,7 +100,7 @@ Sou professor de programação e disciplinas afins, atualmente ministrando aulas
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscocoelho-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
