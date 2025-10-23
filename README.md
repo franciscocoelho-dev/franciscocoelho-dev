@@ -88,7 +88,7 @@ Sou professor de programação e disciplinas afins, atualmente ministrando aulas
 
 ### 📊 Estatísticas
 
-<p>
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -104,4 +104,9 @@ Sou professor de programação e disciplinas afins, atualmente ministrando aulas
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscocoelho-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> -->
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=franciscocoelho-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscocoelho-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
+</div>
