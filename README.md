@@ -3,7 +3,6 @@
 
 Desenvolvedor e entusiasta de soluções criativas e inovadoras. Atualmente utilizo a linguagem Python e os frameworks Django e FastAPI em meus projetos pessoais e profissionais.
 <br> 
-Sou professor de programação e disciplinas afins, atualmente ministrando aulas no curso de Análise e Desenvolvimento de Sistemas na UNINASSAU Parnaíba; na formação em Desenvolvimento de Sistemas do CETI Liceu Parnaibano; e mentor de desenvolvimento na ProgrameIO.
 
 <p align="left">
     <a href="https://github.com/franciscocoelho-dev?tab=repositories&sort=stargazers">
