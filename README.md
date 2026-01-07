@@ -85,22 +85,3 @@ Desenvolvedor e entusiasta de soluções criativas e inovadoras. Atualmente util
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=franciscocoelho-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscocoelho-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p> 
-
