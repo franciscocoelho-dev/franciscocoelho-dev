@@ -79,7 +79,7 @@ Desenvolvedor e entusiasta de soluções criativas e inovadoras. Atualmente util
     title="FastAPI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0)" 
+    src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png" 
 />
 <img 
     align="left" 
