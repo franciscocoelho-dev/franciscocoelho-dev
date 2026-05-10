@@ -4,22 +4,8 @@
 Desenvolvedor e entusiasta de soluções criativas e inovadoras. Atualmente utilizo a linguagem Python e os frameworks Django e FastAPI em meus projetos pessoais e profissionais.
 <br> 
 
-<p align="left">
-    <a href="https://github.com/franciscocoelho-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/franciscocoelho-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/franciscocoelho-dev?tab=followers" style="margin-left: 10px">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/franciscocoelho-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
+
 
 ---
 
